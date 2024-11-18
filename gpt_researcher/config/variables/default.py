@@ -23,5 +23,5 @@ DEFAULT_CONFIG: BaseConfig = {
     "SCRAPER": "bs",
     "MAX_SUBTOPICS": 3,
     "REPORT_SOURCE": None,
-    "DOC_PATH": "./my-docs"
+    "DOC_PATH": "/home/michael/ubuntu-repos/gpt-researcher/docs/docs/"
 }

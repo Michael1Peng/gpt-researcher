@@ -62,7 +62,7 @@ app.add_middleware(
 )
 
 # Constants
-DOC_PATH = os.getenv("DOC_PATH", "./my-docs")
+DOC_PATH = os.getenv("DOC_PATH", "/home/michael/ubuntu-repos/gpt-researcher/docs/docs")
 
 # Startup event
 
